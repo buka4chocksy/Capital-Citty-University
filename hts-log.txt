@@ -1,0 +1,73 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 18 Sep 2019 11:47:18 at http://psdconverthtml.com/live/edupress/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://psdconverthtml.com/live/edupress/index.html -O1 "C:\My Web Sites\university website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:47:19	Warning: 	Moved Permanently for psdconverthtml.com/robots.txt
+11:47:19	Warning: 	Redirected link is identical because of 'URL Hack' option: psdconverthtml.com/robots.txt and https://psdconverthtml.com/robots.txt
+11:47:19	Warning: 	Warning moved treated for psdconverthtml.com/robots.txt (real one is https://psdconverthtml.com/robots.txt)
+12:00:36	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/blog-archive.html (from psdconverthtml.com/live/edupress/index.html)
+12:00:36	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/pager_06.jpg (from psdconverthtml.com/live/edupress/index.html)
+12:01:25	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/images/icons/icon_03.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:27	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/images/icons/icon_04.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:30	Warning: 	Retry after error -2 (Receive Time Out) at link psdconverthtml.com/live/edupress/upload/course_01.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:39	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/testi_01.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:40	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/testi_02.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:41	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/testi_03.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:44	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/testi_04.png (from psdconverthtml.com/live/edupress/index.html)
+12:01:44	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/blog_01.jpg (from psdconverthtml.com/live/edupress/index.html)
+12:02:00	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/blog_02.jpg (from psdconverthtml.com/live/edupress/index.html)
+12:02:00	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/upload/blog_03.jpg (from psdconverthtml.com/live/edupress/index.html)
+12:02:02	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/js/all.js (from psdconverthtml.com/live/edupress/index.html)
+12:02:06	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/js/custom.js (from psdconverthtml.com/live/edupress/index.html)
+12:02:08	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.eot (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:11	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.eot? (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:13	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.woff2 (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:13	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.woff (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:15	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.ttf (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:15	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.svg (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:02:18	Warning: 	Retry after error -4 (Connect Error) at link psdconverthtml.com/live/edupress/css/font-awesome.min.css (from psdconverthtml.com/live/edupress/style.css)
+12:02:31	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/images/icons/img/icon-email.png (from psdconverthtml.com/live/edupress/style.css)
+12:02:31	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/images/icons/img/icon-lock.png (from psdconverthtml.com/live/edupress/style.css)
+12:02:31	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/demo_04.jpg (from psdconverthtml.com/live/edupress/index-02.html)
+12:02:31	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_02.jpg (from psdconverthtml.com/live/edupress/course-list.html)
+12:02:31	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_04.jpg (from psdconverthtml.com/live/edupress/course-list.html)
+12:02:31	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_09.jpg (from psdconverthtml.com/live/edupress/course-grid.html)
+12:02:38	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_10.jpg (from psdconverthtml.com/live/edupress/course-grid.html)
+12:02:38	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_12.jpg (from psdconverthtml.com/live/edupress/course-grid.html)
+12:02:38	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/upload/student_01.png (from psdconverthtml.com/live/edupress/course-single.html)
+12:02:38	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/shop-single.html (from psdconverthtml.com/live/edupress/course-checkout.html)
+12:02:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://psdconverthtml.com/live/edupress/about.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:02:39	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/services.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:02:39	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/elements.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:02:39	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/404.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:02:39	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/sitemap.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:02:39	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/blog_small_02.jpg (from psdconverthtml.com/live/edupress/blog.html)
+12:02:41	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/banner_02.jpg (from psdconverthtml.com/live/edupress/blog.html)
+12:02:41	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/blog_small_06.jpg (from psdconverthtml.com/live/edupress/blog.html)
+12:02:42	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/blog_small_08.jpg (from psdconverthtml.com/live/edupress/blog.html)
+12:02:44	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/testi_02.png (from psdconverthtml.com/live/edupress/index.html)
+12:02:55	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.woff2 (from psdconverthtml.com/live/edupress/css/bootstrap.min.css)
+12:03:12	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/fonts/open-iconic.eot? (from psdconverthtml.com/live/edupress/css/open-iconic.min.css)
+12:03:13	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/css/owl.video.play.png (from psdconverthtml.com/live/edupress/css/carousel.css)
+12:03:13	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/css/build/bigplay.svg (from psdconverthtml.com/live/edupress/css/build/mediaelementplayer.min.css)
+12:03:18	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/css/build/jumpforward.png (from psdconverthtml.com/live/edupress/css/build/mediaelementplayer.min.css)
+12:03:20	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/css/build/skipback.png (from psdconverthtml.com/live/edupress/css/build/mediaelementplayer.min.css)
+12:03:20	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/course_10.jpg (from psdconverthtml.com/live/edupress/course-grid.html)
+12:03:21	Error: 	"Not Found" (404) at link https://psdconverthtml.com/live/edupress/about.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:03:21	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/elements.html (from psdconverthtml.com/live/edupress/page-sitemap.html)
+12:03:21	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/upload/banner_02.jpg (from psdconverthtml.com/live/edupress/blog.html)
+12:03:22	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/edupress/fonts/glyphicons-halflings-regular.woff2
+12:03:22	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/fonts/fontawesome-webfont.eot?v=4.6.3 (from psdconverthtml.com/live/edupress/css/font-awesome.min.css)
+12:03:25	Warning: 	File not parsed, looks like binary: psdconverthtml.com/live/edupress/fonts/fontawesome-webfont.woff2?v=4.6.3
+12:03:26	Warning: 	Retry after error -4 (No data (connection closed)) at link psdconverthtml.com/live/edupress/fonts/open-iconic.eot? (from psdconverthtml.com/live/edupress/css/open-iconic.min.css)
+12:03:26	Warning: 	Moved Permanently for psdconverthtml.com/live/edupress/elements.html
+12:03:26	Warning: 	Redirected link is identical because of 'URL Hack' option: psdconverthtml.com/live/edupress/elements.html and https://psdconverthtml.com/live/edupress/elements.html
+12:03:26	Warning: 	File has moved from psdconverthtml.com/live/edupress/elements.html to https://psdconverthtml.com/live/edupress/elements.html
+12:03:29	Error: 	"No data (connection closed)" (-4) after 2 retries at link psdconverthtml.com/live/edupress/fonts/open-iconic.eot? (from psdconverthtml.com/live/edupress/css/open-iconic.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 16 minutes 11 seconds : 264 links scanned, 207 files written (15765754 bytes overall) [13541595 bytes received at 13946 bytes/sec], 3216263 bytes transferred using HTTP compression in 83 files, ratio 21%, 2.7 requests per connection
+(11 errors, 51 warnings, 0 messages)
